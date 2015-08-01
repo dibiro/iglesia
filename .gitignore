@@ -1,0 +1,7 @@
+# PyBuilder
+*.pyc
+*.py[co]
+*.sqlite3
+*.orig
+*.*~
+nohup.out
