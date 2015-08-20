@@ -1,0 +1,88 @@
+
+      .container2{
+      	width: 90%;
+      	background-image: url("../../img/paz.jpg");
+      	border-radius: 9px 9px 9px 9px;
+      	border: 1px solid lightgrey;
+      }
+      .container{
+      	width: 90%;
+      	background-image: url("../../img/fondo2.jpg");
+      	border-radius: 9px 9px 9px 9px;
+      	border: 1px solid lightgrey;}
+body {
+  padding-top: 80px;
+  padding-bottom: 40px;
+		background: rgba(0,0,0,0.1);
+}
+.container3{
+	width: 25%;
+	background-image: url("../../img/fondo.jpg");
+	border-radius: 9px 9px 9px 9px;
+	border: 1px solid lightgrey;
+	margin: 0 auto;
+}
+.container4{
+	width: 25%;
+	background-image: url("../../img/paz.jpg");
+	border-radius: 9px 9px 9px 9px;
+	border: 1px solid lightgrey;
+}
+input{
+	margin: 2%;
+	width: 92%;
+
+
+}
+button{
+	margin: 2%;
+	margin-left: 12px;
+}
+h2{
+ font: oblique bold 300% cursive; 
+color: #3CB371;
+}
+
+
+.titulo{
+	font-size: 25px;
+	font-family: cursive;
+	padding: 22px;
+	text-decoration: none;
+	line-height: 27px;
+	color: blue;
+}
+.parrafo{
+	
+	font-family: cursive;
+	
+	color: #680000;
+}
+li a{
+	margin-top: 15px;
+	font-family: cursive;
+	font-size: 15px;
+}
+.cajas{
+	width: 100%;
+}
+.icon{
+	width: 100px;
+	height: 100px;
+}
+#textopegado{
+	text-align: right;
+}
+#tablecenter2{
+	width:60%;
+	overflow: scroll;
+}
+
+.fondodiv{
+	background: rgba(0,0,0,0.2);
+	font-family: cursive;
+
+}
+.fondodiv select{
+	width: 99.99%;
+}
